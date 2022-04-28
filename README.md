@@ -20,7 +20,7 @@ Secondly, game contextualization should reflect the complex and high-order prope
 python main.py
 
 ## Cite
-
+'''
 @inproceedings{SCGRec,
   author    = {Liangwei Yang and
                Zhiwei Liu and
@@ -41,3 +41,5 @@ python main.py
   biburl    = {https://dblp.org/rec/conf/www/YangLWWFY22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+'''
+
