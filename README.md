@@ -18,8 +18,9 @@ Secondly, game contextualization should reflect the complex and high-order prope
 
 ## How to run
 python main.py
+
 ## Cite
-``
+
 @inproceedings{SCGRec,
   author    = {Liangwei Yang and
                Zhiwei Liu and
